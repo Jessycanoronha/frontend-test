@@ -1,9 +1,7 @@
 # Touch / frontend-test
----
-You need to develop a front-end code for a [product page](https://invis.io/3FDP5OKAP) of a fictional e-commerce website.
+You need to develop a front-end code for a [product page](https://invis.io/3FDP5OKAP) of a fashion e-commerce website.
 
 ## The Test
-
  - You will need to implement the solution (using HTML, CSS and JS)
  - Use a CSS Framework (Bootstrap, Foundation, Pure, etc.)
  
@@ -14,7 +12,9 @@ Commit and push your code to your new repository. Use [Github Pages](https://hel
 To apply, please email [trabalhe@estudiotouch.com](mailto:trabalhe@estudiotouch.com) with your solution. Include link of your code on Github. Also please explain why you would be a good fit for this job.
 
 ### Things to keep in mind:
- - Write a clean, resusable and quality code
+ - Write a clean, reusable and quality code
+ - All in-code documentation needs to be in English
  - The code should be cross browser (IE Edge, Chrome, Firefox, Safari and Opera)
  - Use CSS class patterns
  - Show us your work through your commit history!
+ - Surprise us! ;)
