@@ -5,6 +5,8 @@ You need to develop a front-end code for a [product page](https://invis.io/3FDP5
  - You will need to implement the solution (using HTML, CSS and JS)
  - Use a CSS Framework (Bootstrap, Foundation, Pure, etc.)
  
+All project assets are in the [zip](https://github.com/estudiotouch/frontend-test/blob/master/frontend-test.zip) at this folder
+ 
 You are free to use CSS pre-processors, Task Runners and any other tool to improve your work result.
  
 Commit and push your code to your new repository. Use [Github Pages](https://help.github.com/articles/what-is-github-pages/) or any other hosting service to run your solution.
