@@ -3,11 +3,11 @@
 You need to build a product page of a fashion e-commerce website following a [provided design layout](https://invis.io/3FDP5OKAP). This page must work with the most recent browsers (IE Edge, Chrome, Firefox, Safari and Opera).
 
 ## Requirements
- - As user, I want to be able to see details of the product when hover the featured product picture;
- - As user, I want to see different options of views of my product using a simple thumbnails navigation;
- - As user, I want to see the different size options;
- - As user, I want be able to mark as favorite a product;
- - As user, I want to calulate the ship price using my ZIP/Postalcode;
+ - As a user, I want to be able to see details of the product when hover the featured product picture;
+ - As a user, I want to see different options of views of my product using a simple thumbnails navigation;
+ - As a user, I want to see the different size options;
+ - As a user, I want be able to mark as favorite a product;
+ - As a user, I want to calulate the ship price using my ZIP/Postalcode;
 
 ## Definition of Done
  - It's highly recommended use frontend frameworks (Bootstrap, Foundation, Pure and etc)
